@@ -2,7 +2,7 @@
 
 A classic Snake game built using Python and Tkinter GUI library.
 
-![Snake Game Screenshot](images/Screenshot 2025-05-19 161122.png) *(You can add a screenshot later)*
+![Snake Game Screenshot](snake.png)
 
 ## Features
 - Classic snake gameplay mechanics
